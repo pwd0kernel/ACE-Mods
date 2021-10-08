@@ -1,0 +1,35 @@
+const credits = "pwd0kernel";
+const version = "1.0.0";
+
+if (is_ace) {
+    const some_text = "pwdmod modules, [pwdmod.echo(\"hello\", \"world\")] 1.0.0";
+
+    const pwdmod = {
+        // normal echo function
+        echo: function () {
+            var text_f = "";
+            for (var i = 0; i < arguments.length; i++) {
+                text_f = text_f + arguments[i];
+            }
+            print(text_f);
+        },
+
+        print: function () {
+            var text_f = "";
+            for (var i = 0; i < arguments.length; i++) {
+                text_f = text_f + arguments[i];
+            }
+            print(text_f);
+        },
+
+        // normal hudecho function
+        hudecho: function () {
+            var text_f = "";
+            for (var i = 0; i < arguments.length; i++) {
+                text_f = text_f + arguments[i];
+            }
+            hudecho(text_f);
+        }
+    }
+    console.log(some_text)
+}
