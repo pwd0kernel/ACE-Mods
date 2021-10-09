@@ -2,6 +2,6 @@
     {
         "name": "pwd0kernel",
         "description": "Default Mod Library",
-        "link": "https://github.com/pwd0kernel/ACE-Mods/blob/main/lib.json"
+        "link": "https://raw.githubusercontent.com/pwd0kernel/ACE-Mods/main/lib.json"
     }
 ]
