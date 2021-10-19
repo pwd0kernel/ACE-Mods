@@ -1,15 +1,15 @@
 [
-    {
+    [
         "name": "pwdmod",
         "credits": "pwd0kernel",
         "description": "ACE module extention",
         "link": "https://raw.githubusercontent.com/pwd0kernel/ACE-Mods/main/pwdmod.ace"
-    },
+    ],
     
-    {
+    [
         "name": "basicprint",
         "credits": "pwd0kernel",
         "description": "basic print test",
         "link": "https://raw.githubusercontent.com/pwd0kernel/ACE-Mods/main/basicprint.ace"
-    }
+    ]
 ]
